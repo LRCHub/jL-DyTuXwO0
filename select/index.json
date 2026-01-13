@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "One Light",
+  "base_artist": "Kalafina",
+  "createdAt": "2026-01-13T23:11:20.610969Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "One Light (feat. Bantu)",
+      "artist": "Maroon 5 feat. Bantu",
+      "has_synced": true,
+      "path": "select/01_One_Light_(feat._Bantu)_Maroon_5_feat._Bantu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "One Light",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/02_One_Light_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One Light",
+      "artist": "Skid Row",
+      "has_synced": true,
+      "path": "select/03_One_Light_Skid_Row.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One Light",
+      "artist": "3 Doors Down",
+      "has_synced": true,
+      "path": "select/04_One_Light_3_Doors_Down.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One Light",
+      "artist": "3 Doors Down",
+      "has_synced": true,
+      "path": "select/05_One_Light_3_Doors_Down.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One Light, One Sun",
+      "artist": "Raffi",
+      "has_synced": true,
+      "path": "select/06_One_Light,_One_Sun_Raffi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "One Light In a Dark Valley (An Imitation Spiritual)",
+      "artist": "Harry Chapin",
+      "has_synced": false,
+      "path": "select/07_One_Light_In_a_Dark_Valley_(An_Imitation_Spiritual)_Harry_Chapin.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "One Light",
+      "artist": "Maroon 5 / Bantu",
+      "has_synced": true,
+      "path": "select/08_One_Light_Maroon_5___Bantu.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "One Light Burning",
+      "artist": "Richie Sambora",
+      "has_synced": true,
+      "path": "select/09_One_Light_Burning_Richie_Sambora.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "One Light",
+      "artist": "Maroon 5 Ft. Bantu",
+      "has_synced": true,
+      "path": "select/10_One_Light_Maroon_5_Ft._Bantu.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "One Light",
+      "artist": "Maroon 5 feat. Bantu",
+      "has_synced": true,
+      "path": "select/11_One_Light_Maroon_5_feat._Bantu.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "One Light Retreating",
+      "artist": "Elder",
+      "has_synced": true,
+      "path": "select/12_One_Light_Retreating_Elder.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "One Light",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/13_One_Light_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "One Light",
+      "artist": "Kalafina",
+      "has_synced": true,
+      "path": "select/14_One_Light_Kalafina.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "One Light One Sun",
+      "artist": "Raffi",
+      "has_synced": true,
+      "path": "select/15_One_Light_One_Sun_Raffi.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "One Light",
+      "artist": "Kalafina",
+      "has_synced": true,
+      "path": "select/16_One_Light_Kalafina.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "One Light",
+      "artist": "Kalafina",
+      "has_synced": false,
+      "path": "select/17_One_Light_Kalafina.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "One Light (feat. Bantu)",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/18_One_Light_(feat._Bantu)_Maroon_5.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "One Light",
+      "artist": "Kalafina",
+      "has_synced": false,
+      "path": "select/pl_01_One_Light_Kalafina.txt"
+    }
+  ]
+}
